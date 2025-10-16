@@ -1,0 +1,2 @@
+/Users/tirtasetiawan/Documents/rki_v1/rki_2025/dataset/genus/genus.csv
+/Users/tirtasetiawan/Documents/rki_v1/rki_2025/dataset/species/species.csv
